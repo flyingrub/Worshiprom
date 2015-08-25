@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Worshiprom</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="loading_text">Chargement…</string>
+    <string name="action_refresh">Rafraichir</string>
+    <string name="pref_action_show_title">Afficher l\'ActionBar</string>
+    <string name="pref_summary_show_action">Afficher la barre bleu située en haut de l\'application sur la vue principale</string>
+    <string name="reload_alert">Un redémarrage de l\'application est nécessaire…</string>
+    <string name="ok">OK</string>
+
+    <string name="settings">Settings</string>
+    <string name="app_info">About this app</string>
+
+    <string name="license">License</string>
+    <string name="donate">Donate</string>
+    <string name="donate_summary">Click in order to support my work :) …</string>
+    <string name="source_code">Github</string>
+    <string name="source_code_summary">Acces to the source code.</string>
+    <string name="version">Worshiprom Version</string>
+
+</resources>

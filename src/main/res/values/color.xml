@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#03a9f4</color>
+    <color name="blue_dark">#0091ea</color>
+    <color name="bckdra_stock">#424242</color>
+    <color name="bckdra_activated">#0091ea</color>
+    <color name="text_pressed">#e1f5fe</color>
+    <color name="text_stock">#03a9f4</color>
+    <color name="text_drawer">#fafafa</color>
+</resources>

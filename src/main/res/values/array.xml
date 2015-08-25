@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Label">
+        <item>Forum</item>
+        <item>The Forum</item>
+        <item>My Mp</item>
+        <item>Réseaux sociaux</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Google +</item>
+        <item>Youtube</item>
+        <item>Useful Website</item>
+        <item>XDA</item>
+        <item>Settings</item>
+        <item>Settings</item>
+    </string-array>
+
+</resources>
